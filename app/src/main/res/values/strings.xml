@@ -11,7 +11,7 @@
     <string name="edit">Редактировать</string>
     <string name="delete">Удалить</string>
     <string name="foods">Foods</string>
-    <string name="search">Поиск...</string>
+    <string name="search">Поиск…</string>
     <string name="checkInternet">Please Check Your Connection</string>
     <string name="emptyList">List is empty</string>
     <string name="ingredients">Ingredients</string>
@@ -19,5 +19,5 @@
     <string name="home">Домой</string>
     <string name="favorite">Избранное</string>
     <string name="fillAllFields">Обязательные поля не заполнены</string>
-    <string name="fab">FAB</string>
+    <string name="fab" translatable="false">Кнопка</string>
 </resources>
